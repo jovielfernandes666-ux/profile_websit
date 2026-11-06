@@ -1,4 +1,1 @@
 # profile 
-NAME JOVIEL 
-AGE 20
-GENDER MALE
